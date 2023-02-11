@@ -9,9 +9,3 @@
 [소개](https://leeseungyun.notion.site/93529aaa37ad4858915b3e5354ab0cf0)
 
 [포트폴리오](https://leeseungyun.notion.site/c712f1081df448499c5429a5cceb962a)
-
-## 📚 Education
-### 부산대학교 정보컴퓨터공학 학사 (4.35/4.50)
-
-*2016년 03월 ~ 2022년 08월*
-
